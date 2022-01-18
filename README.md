@@ -4,10 +4,11 @@ __Empirical project on the topic of Airbnb housing market__
 
 ## Motivation
 
-As a result of this global connectivity and increased travelling frequency the pioneering platform of AirBnB has been established as the leader in online lodging, primarily home stays for vacation rentals and tourism activities with more than 2.8 million hosts(2021). Nevertheless, increased offer comes with increased competition and the hosts need to find new ways of attracting the people.
+As a result of this global connectivity and increased travelling frequency the pioneering platform of AirBnB has been established as the leader in online lodging, primarily home stays for vacation rentals and tourism activities with more than 2.8 million hosts (2021). Nevertheless, increased offer comes with increased competition and the hosts need to find new ways of attracting the people.
 
 ## Method and results
 
+For this research, a pivot table and two plots were used in order to see the relationship between the variables. 
 
 ## Repository overview
 
